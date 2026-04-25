@@ -1,4 +1,4 @@
 # cervical_cancer_ai
 ## Introduction
 Cervical cancer remains a major health concern due to delayed diagnosis and limited access to effective screening. Traditional methods often fail to capture complex interactions among medical, demographic, and lifestyle risk factors. To address this, we propose a hybrid cervical cancer risk prediction system that combines an FT-Transformer, designed for tabular medical data using feature tokenization and attention mechanisms, with traditional machine learning models. Patient demographic, lifestyle, HPV-related, and medical data are analyzed to classify individuals into multiple risk levels with associated confidence scores. This approach provides an interpretable, scalable decision-support system to aid early risk identification and timely preventive care.
-<img width="11504" height="81" alt="image" src="https://github.com/user-attachments/assets/ebda558d-513a-46ff-8b95-6149f7483e53" />
+
